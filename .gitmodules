@@ -1,0 +1,3 @@
+[submodule "GoHappy"]
+	path = GoHappy
+	url = https://github.com/karishmag9/GoHappy.git

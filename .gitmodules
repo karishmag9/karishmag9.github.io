@@ -4,3 +4,6 @@
 [submodule "GoHappy-two"]
 	path = GoHappy-two
 	url = https://github.com/karishmag9/GoHappy-two.git
+[submodule "GoHappy-three"]
+	path = GoHappy-three
+	url = https://github.com/karishmag9/GoHappy-three.git
